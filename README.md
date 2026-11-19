@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Banoth Nithin</h1>
+<h1 align="center">Hi , I'm Banoth Nithin</h1>
 <h3 align="center">Aspiring Software Engineer | AI & Full Stack Enthusiast</h3>
 
 # 💫 About Me
@@ -6,13 +6,13 @@
 Passionate about problem solving, software development, and building real-world projects.
 Currently focused on Data Structures & Algorithms, Full Stack Development, and AI technologies.
 
-* 💻 Solving DSA problems regularly on coding platforms
-* 🚀 Building projects using C++, Python, Java, and Web Technologies
-* 🌱 Currently learning MERN Stack and Backend Development
-* 🤝 Interested in Open Source collaboration and Software Engineering opportunities
-* ⚡ Strong interest in AI, scalable systems, and clean code practices
+*  Solving DSA problems regularly on coding platforms
+*  Building projects using C++, Python, Java, and Web Technologies
+*  Currently learning MERN Stack and Backend Development
+*  Interested in Open Source collaboration and Software Engineering opportunities
+*  Strong interest in AI, scalable systems, and clean code practices
 
-# 🌐 Socials
+# Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/nithinbanoth-)
 
